@@ -144,7 +144,7 @@ The last part of our docker-compose.yml file is the [Logstash](https://www.elast
     restart: unless-stopped
 ```
 
-Our Logstash configuration file ([logstash.conf](../config/logstash.conf)) is expected receive the log file from some Beat ([Beats Reference](https://www.elastic.co/guide/en/beats/libbeat/current/beats-reference.html))
+Our Logstash configuration file ([logstash.conf](/config/logstash.conf)) is expected receive the log file from some Beat ([Beats Reference](https://www.elastic.co/guide/en/beats/libbeat/current/beats-reference.html))
 
 To Get get this compose up run in your Linux terminal (Where you did the Clone of this git)
 
