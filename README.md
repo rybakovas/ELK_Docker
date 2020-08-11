@@ -13,7 +13,7 @@ For More information about ELK Solutions please visit Elastic Site [elastic.co/]
 
 # Docker-Compose.yml File
 
-Inside the [docker-compose.yml](../docker-compose.yml) file you will find all instructions of docker needs to do the installation and configuration of ELK stack.
+Inside the [docker-compose.yml](/docker-compose.yml) file you will find all instructions of docker needs to do the installation and configuration of ELK stack.
 
 ```yaml
 #First part we do the install / configuration of the ElastSearch Cluster
